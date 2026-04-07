@@ -22,10 +22,6 @@ Liệt kê ít nhất 2 assets cần bảo vệ.
 
 ## 2. Mapping CIA
 
-## CIA mapping
-
-## 2. Mapping CIA
-
 - Sự cố A -> Availability (A)
 - Sự cố B -> Integrity (I)
 - Sự cố C -> Confidentiality (C)
